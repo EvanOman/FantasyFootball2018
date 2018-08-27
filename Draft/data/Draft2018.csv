@@ -1,129 +1,129 @@
-Player, Drafter
-Ezekiel Elliott,Michael
-Julio Jones,Evan
-Le'Veon Bell,Will
-Alvin Kamara,Jacob
-David Johnson,Andrew
-Tom Brady,Kuuuuuby
-Leonard Fournette,Joe
-Todd Gurley II,Chris
-Saquon Barkley,Michael
-Antonio Brown,Evan
-Kareem Hunt,Will
-DeAndre Hopkins,Jacob
-A.J. Green,Andrew
-Melvin Gordon,Kuuuuuby
-Devonta Freeman,Joe
-Odell Beckham Jr.,Chris
-Michael Thomas,Chris
-Davante Adams,Joe
-Rob Gronkowski,Kuuuuuby
-Dalvin Cook,Andrew
-Joe Mixon,Jacob
-Keenan Allen,Will
-Christian McCaffrey,Evan
-Jordan Howard,Michael
-Marvin Jones Jr.,Michael
-Mike Evans,Evan
-T.Y. Hilton,Will
-Adam Thielen,Jacob
-Russell Wilson,Andrew
-Doug Baldwin,Kuuuuuby
-Drew Brees,Joe
-Tyreek Hill,Chris
-Derrick Henry,Chris
-Travis Kelce,Joe
-Stephen Gostkowski,Kuuuuuby
-Jay Ajayi,Andrew
-Zach Ertz,Jacob
-Jerick McKinnon,Will
-LeSean McCoy,Evan
-Amari Cooper,Michael
-Jared Goff,Michael
-Larry Fitzgerald,Evan
-Demaryius Thomas,Will
-Allen Robinson,Jacob
-Stefon Diggs,Andrew
-Lamar Miller,Kuuuuuby
-JuJu Smith-Schuster,Joe
-Josh Gordon,Chris
-Aaron Rodgers,Chris
-Vikings D/ST D/ST,Joe
-Emmanuel Sanders,Kuuuuuby
-Will Fuller V,Andrew
-Kenyan Drake,Jacob
-Jarvis Landry,Will
-Rashaad Penny,Evan
-Chris Hogan,Michael
-Kyle Rudolph,Michael
-Jimmy Graham,Evan
-Deshaun Watson,Will
-Cam Newton,Jacob
-Delanie Walker,Andrew
-Jaguars D/ST D/ST,Kuuuuuby
-Mark Ingram II,Joe
-Evan Engram,Chris
-Alex Collins,Chris
-Jordy Nelson,Joe
-Tevin Coleman,Kuuuuuby
-Jamaal Williams,Andrew
-Greg Olsen,Jacob
-Dion Lewis,Will
-Marshawn Lynch,Evan
-Marquise Goodwin,Michael
-Matt Ryan,Michael
-Michael Crabtree,Evan
-Royce Freeman,Will
-Nick Chubb,Jacob
-Jamison Crowder,Andrew
-Kenny Stills,Kuuuuuby
-Brandin Cooks,Joe
-Kerryon Johnson,Chris
-Golden Tate,Chris
-Isaiah Crowell,Joe
-Rex Burkhead,Kuuuuuby
-Sebastian Janikowski,Andrew
-Pierre Garcon,Jacob
-Nelson Agholor,Will
-Tarik Cohen,Evan
-Adrian Peterson,Michael
-Kelvin Benjamin,Michael
-Robert Woods,Evan
-Julian Edelman,Will
-Calvin Ridley,Jacob
-David Njoku,Andrew
-Tyler Eifert,Kuuuuuby
-Aaron Jones,Joe
-Carson Wentz,Chris
-Corey Davis,Chris
-Devin Funchess,Joe
-Randall Cobb,Kuuuuuby
-Case Keenum,Andrew
-Anthony Miller,Jacob
-Jack Doyle,Will
-Alshon Jeffery,Evan
-Corey Clement,Michael
-Lions D/ST D/ST,Michael
-Ben Roethlisberger,Evan
-Andrew Luck,Will
-Marlon Mack,Jacob
-Rishard Matthews,Andrew
-Kirk Cousins,Kuuuuuby
-Matthew Stafford,Joe
-Jordan Reed,Chris
-Greg Zuerlein,Chris
-Matt Bryant,Joe
-Eagles D/ST D/ST,Kuuuuuby
-Rams D/ST D/ST,Andrew
-Justin Tucker,Jacob
-Saints D/ST D/ST,Will
-Blair Walsh,Evan
-Ka'imi Fairbairn,Michael
-Cooper Kupp,Michael
-Patriots D/ST D/ST  ,Evan
-Jake Elliott,Will
-Bears D/ST D/ST,Jacob
-LeGarrette Blount,Andrew
-Adam Vinatieri,Kuuuuuby
-George Kittle,Joe
-Texans D/ST D/ST,Chris
+Player,Drafter,Round
+Ezekiel Elliott,Michael, Franchise
+Julio Jones,Evan, Franchise
+Le'Veon Bell,Will, Franchise
+Alvin Kamara,Jacob, Franchise
+David Johnson,Andrew, Franchise
+Tom Brady,Kuuuuuby, Franchise
+Leonard Fournette,Joe, Franchise
+Todd Gurley II,Chris, Franchise
+Saquon Barkley,Michael,1
+Antonio Brown,Evan,1
+Kareem Hunt,Will,1
+DeAndre Hopkins,Jacob,1
+A.J. Green,Andrew,1
+Melvin Gordon,Kuuuuuby,1
+Devonta Freeman,Joe,1
+Odell Beckham Jr.,Chris,1
+Michael Thomas,Chris,2
+Davante Adams,Joe,2
+Rob Gronkowski,Kuuuuuby,2
+Dalvin Cook,Andrew,2
+Joe Mixon,Jacob,2
+Keenan Allen,Will,2
+Christian McCaffrey,Evan,2
+Jordan Howard,Michael,2
+Marvin Jones Jr.,Michael,3
+Mike Evans,Evan,3
+T.Y. Hilton,Will,3
+Adam Thielen,Jacob,3
+Russell Wilson,Andrew,3
+Doug Baldwin,Kuuuuuby,3
+Drew Brees,Joe,3
+Tyreek Hill,Chris,3
+Derrick Henry,Chris,4
+Travis Kelce,Joe,4
+Stephen Gostkowski,Kuuuuuby,4
+Jay Ajayi,Andrew,4
+Zach Ertz,Jacob,4
+Jerick McKinnon,Will,4
+LeSean McCoy,Evan,4
+Amari Cooper,Michael,4
+Jared Goff,Michael,5
+Larry Fitzgerald,Evan,5
+Demaryius Thomas,Will,5
+Allen Robinson,Jacob,5
+Stefon Diggs,Andrew,5
+Lamar Miller,Kuuuuuby,5
+JuJu Smith-Schuster,Joe,5
+Josh Gordon,Chris,5
+Aaron Rodgers,Chris,6
+Vikings D/ST,Joe,6
+Emmanuel Sanders,Kuuuuuby,6
+Will Fuller V,Andrew,6
+Kenyan Drake,Jacob,6
+Jarvis Landry,Will,6
+Rashaad Penny,Evan,6
+Chris Hogan,Michael,6
+Kyle Rudolph,Michael,7
+Jimmy Graham,Evan,7
+Deshaun Watson,Will,7
+Cam Newton,Jacob,7
+Delanie Walker,Andrew,7
+Jaguars D/ST,Kuuuuuby,7
+Mark Ingram II,Joe,7
+Evan Engram,Chris,7
+Alex Collins,Chris,8
+Jordy Nelson,Joe,8
+Tevin Coleman,Kuuuuuby,8
+Jamaal Williams,Andrew,8
+Greg Olsen,Jacob,8
+Dion Lewis,Will,8
+Marshawn Lynch,Evan,8
+Marquise Goodwin,Michael,8
+Matt Ryan,Michael,9
+Michael Crabtree,Evan,9
+Royce Freeman,Will,9
+Nick Chubb,Jacob,9
+Jamison Crowder,Andrew,9
+Kenny Stills,Kuuuuuby,9
+Brandin Cooks,Joe,9
+Kerryon Johnson,Chris,9
+Golden Tate,Chris,10
+Isaiah Crowell,Joe,10
+Rex Burkhead,Kuuuuuby,10
+Sebastian Janikowski,Andrew,10
+Pierre Garcon,Jacob,10
+Nelson Agholor,Will,10
+Tarik Cohen,Evan,10
+Adrian Peterson,Michael,10
+Kelvin Benjamin,Michael,11
+Robert Woods,Evan,11
+Julian Edelman,Will,11
+Calvin Ridley,Jacob,11
+David Njoku,Andrew,11
+Tyler Eifert,Kuuuuuby,11
+Aaron Jones,Joe,11
+Carson Wentz,Chris,11
+Corey Davis,Chris,12
+Devin Funchess,Joe,12
+Randall Cobb,Kuuuuuby,12
+Case Keenum,Andrew,12
+Anthony Miller,Jacob,12
+Jack Doyle,Will,12
+Alshon Jeffery,Evan,12
+Corey Clement,Michael,12
+Lions D/ST,Michael,13
+Ben Roethlisberger,Evan,13
+Andrew Luck,Will,13
+Marlon Mack,Jacob,13
+Rishard Matthews,Andrew,13
+Kirk Cousins,Kuuuuuby,13
+Matthew Stafford,Joe,13
+Jordan Reed,Chris,13
+Greg Zuerlein,Chris,14
+Matt Bryant,Joe,14
+Eagles D/ST,Kuuuuuby,14
+Rams D/ST,Andrew,14
+Justin Tucker,Jacob,14
+Saints D/ST,Will,14
+Blair Walsh,Evan,14
+Ka'imi Fairbairn,Michael,14
+Cooper Kupp,Michael,15
+Patriots D/ST,Evan,15
+Jake Elliott,Will,15
+Bears D/ST,Jacob,15
+LeGarrette Blount,Andrew,15
+Adam Vinatieri,Kuuuuuby,15
+George Kittle,Joe,15
+Texans D/ST,Chris,15
